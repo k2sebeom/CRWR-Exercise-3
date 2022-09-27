@@ -14,4 +14,15 @@ img {
 
 .text {
     overflow-y: scroll;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+body {
+    margin: 0;
 }
